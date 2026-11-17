@@ -2,7 +2,7 @@
 
 A working prototype exploring one moment in the sitter journey: **what a new sitter can know before paying the activation fee, and whether the Money Back Promise conditions they are shown can ever contradict each other.**
 
-Live demo: added on deployment (Cloudflare Pages).
+Live demo: https://sittsy-sitter-activation-clarity.pages.dev/
 
 Built by Abhinav Jha as a pitch piece alongside his application for the Founding Engineer role at Sittsy. It is an independent exploration based on Sittsy's public pages and public review replies. It is not affiliated with or endorsed by Sittsy, and it uses a scripted scenario, not live account data.
 
