@@ -528,6 +528,28 @@ export default function App() {
           Working prototype. Not affiliated with Sittsy. All Sittsy wording is
           quoted from public sources, cited on screen.
         </p>
+        <div className="summary">
+          <p>
+            <strong>The short version.</strong> A new sitter pays an activation
+            fee and gets a 30-day Money Back Promise. Its conditions live in
+            several places at once: sales pages, support replies, in-app text.
+            When each place interprets them separately, a sitter can be told
+            two different things about the same promise, and one documented
+            sitter was refused over a condition that appears in no published
+            list.
+          </p>
+          <p>
+            This prototype puts the published conditions in one place before
+            payment, then tracks the same conditions from the same single
+            model for the first 30 days, so the answer can never contradict
+            itself. What it cannot determine, it says so.
+          </p>
+          <p>
+            See it work: the second tab replays one sitter's 30 days, and the
+            Naive mode toggle shows the contradiction this design makes
+            impossible.
+          </p>
+        </div>
       </div>
 
       <div className="layout">

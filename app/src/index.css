@@ -41,6 +41,18 @@ body {
   color: #333;
 }
 
+.summary {
+  border: 1px solid #999;
+  background: #fafafa;
+  padding: 8px 12px;
+  margin-top: 10px;
+  max-width: 760px;
+}
+
+.summary p {
+  margin: 4px 0;
+}
+
 .layout {
   display: flex;
   gap: 20px;

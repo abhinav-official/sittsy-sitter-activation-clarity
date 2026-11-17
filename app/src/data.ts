@@ -205,7 +205,7 @@ export const POLICY_SNAPSHOT: PolicySnapshot = {
     {
       id: 'C8',
       sitter_facing_text:
-        'Your activation must include the Money Back Promise. Activations without it are final and non-refundable, and the payment screen states this before paying.',
+        'Activations without the Money Back Promise are final and non-refundable, and the payment screen states this before paying.',
       published_wording:
         'A plan without the Money Back Promise is final and non-refundable, and the payment screen states this before paying.',
       source_url: TRUSTPILOT_PAGE2,
@@ -223,7 +223,7 @@ export const POLICY_SNAPSHOT: PolicySnapshot = {
     {
       id: 'R2',
       display_text:
-        'Reported but not published: one sitter\u2019s in-app terms reportedly required five approved testimonials to remain on the profile for at least 20 of the 30 days. The published list contains no presence requirement.',
+        'Not in the published list: one sitter\u2019s in-app terms reportedly required five approved testimonials to remain on the profile for at least 20 of the 30 days. Those in-app terms are not published policy, so this tracker classifies the rule as an unconfirmed interpretation and does not evaluate it.',
       source_url: TRUSTPILOT_MAIN,
       evidence_class: 'UNCONFIRMED_INTERPRETATION',
     },
